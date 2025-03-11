@@ -1,8 +1,8 @@
 namespace CSharpMultithreading
 {
-    public partial class Form1 : Form
+    public partial class CSharpMultithreading : Form
     {
-        public Form1()
+        public CSharpMultithreading()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace CSharpMultithreading
 {
-    partial class Form1
+    partial class CSharpMultithreading
     {
         /// <summary>
         ///  Required designer variable.
